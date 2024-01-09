@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Demo
 
-https://vercel.com/megan-callenbachs-projects/assignment-intergamma
+https://assignment-intergamma.vercel.app/
 
 ## Getting Started
 
